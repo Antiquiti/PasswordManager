@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\antiq\\Desktop\\studia\\programowanie\\Projekt - Menadżer Haseł\\Menadzer hasel\\Menadzer hasel\\Menadzer hasel.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\antiq\\Desktop\\studia\\programowanie\\Projekt - Menadżer Haseł\\Menadzer hasel\\Menadzer hasel\\Menadzer hasel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\antiq\\Desktop\\studia\\programowanie\\Projekt - Menadżer Haseł\\Menadzer hasel\\Menadzer hasel\\Menadzer hasel.csproj",
+        "projectName": "Menadzer hasel",
+        "projectPath": "C:\\Users\\antiq\\Desktop\\studia\\programowanie\\Projekt - Menadżer Haseł\\Menadzer hasel\\Menadzer hasel\\Menadzer hasel.csproj",
+        "packagesPath": "C:\\Users\\antiq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\antiq\\Desktop\\studia\\programowanie\\Projekt - Menadżer Haseł\\Menadzer hasel\\Menadzer hasel\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\antiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "FontAwesome.UWP": {
+              "target": "Package",
+              "version": "[4.7.0.9, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            },
+            "Microsoft.Toolkit.Uwp.UI.Controls.DataGrid": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "SQLitePCLRaw.bundle_sqlcipher": {
+              "target": "Package",
+              "version": "[1.1.14, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.111, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.5.231, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

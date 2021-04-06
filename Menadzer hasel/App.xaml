@@ -1,0 +1,17 @@
+﻿<Application
+    x:Class="Menadzer_hasel.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Menadzer_hasel">
+
+    <Application.Resources>
+        <SolidColorBrush Color="#002b80" x:Key="NavigationViewDefaultPaneBackground"/>
+        <SolidColorBrush Color="#002b80" x:Key="NavigationViewExpandedPaneBackground"/>
+        <SolidColorBrush Color="#003cb3" x:Key="NavigationViewItemBackgroundSelected"/>
+        <SolidColorBrush Color="#003cb3" x:Key="NavigationViewItemBackgroundSelectedPointerOver"/>
+        <SolidColorBrush Color="White"   x:Key="NavigationViewItemForegroundSelected"/>
+        <SolidColorBrush Color="White"  x:Key="NavigationViewItemForegroundSelectedPointerOver"/>
+        <SolidColorBrush x:Key="NavigationViewItemForegroundPointerOver" Color="White"/>
+    </Application.Resources>
+
+</Application>

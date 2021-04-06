@@ -1,0 +1,77 @@
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\Menadzer hasel.csprojAssemblyReference.cache
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\App.g.i.cs
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\App.g.cs
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\MainPage.g.cs
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\App.xaml
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\MainPage.xaml
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\App.xbf
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\MainPage.xbf
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\Menadzer hasel.csproj.CoreCompileInputs.cache
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\App.xbf
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\MainPage.xbf
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\Menadzer hasel.xr.xml
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\Menadzer hasel.exe
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\Menadzer hasel.pdb
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\resources.pri
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\AppxManifest.xml
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\Core\Menadzer hasel.exe
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\Menadzer hasel.build.appxrecipe
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\System.Runtime.dll
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\Menadzer hasel.csproj.CopyComplete
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\Menadzer hasel.exe
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\Menadzer hasel.pdb
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\priconfig.xml
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\resources.resfiles
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\pri.resfiles
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\qualifiers.txt
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758516200000000.json
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pdb
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\en-US\Microsoft.Toolkit.Uwp.UI.Controls.Properties.Resources.resw
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\resources.en-us.resfiles
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\AddPassword.xbf
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\AddPassword.g.i.cs
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\AddPassword.g.cs
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\AddPassword.xaml
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\AddPassword.xbf
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\PasswordList.xbf
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\PasswordList.g.i.cs
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\PasswordList.g.cs
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\PasswordList.xaml
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\PasswordList.xbf
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\e_sqlite3.dll
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\SQLite-net.dll
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\SQLite.Interop.dll
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\System.Data.SQLite\en\System.Data.SQLite.SR.resw
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\resources.en.resfiles
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\resources.en.resfiles.intermediate
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\FontAwesome.UWP.dll
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\obj\x86\Debug\FontAwesome.UWP.pri.xml
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\SQLitePCLRaw.batteries_sqlcipher.dll
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\sqlcipher.dll
+C:\Users\antiq\Desktop\studia\programowanie\Projekt - Menadżer Haseł\Menadzer hasel\Menadzer hasel\bin\x86\Debug\SQLitePCLRaw.provider.sqlcipher.dll
